@@ -35,7 +35,7 @@ Here are programming languages or tools I frequently used:
 
  <img height="30" width="42" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  
-  <img height="30" width="42" alt="tailwindcss logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img height="30" width="42" alt="tailwindcss logo" src="https://devicons.railway.app/i/html5.svg" />
   <img height="30" width="42" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="30" width="42" alt="tailwind logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" />
   <img height="30" width="42" alt="nextjs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
