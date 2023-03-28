@@ -31,6 +31,7 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
 Here are programming languages or tools I frequently used:
 
 <div>
+   <img height="30" width="42" alt="nextjs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img height="30" width="42" alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
  <img height="30" width="42" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -38,7 +39,7 @@ Here are programming languages or tools I frequently used:
   <img height="30" width="42" alt="html logo" src="https://devicons.railway.app/i/html5.svg" />
   <img height="30" width="42" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="32" width="42" alt="linux logo" src="https://devicons.railway.app/i/tux.svg" />
-  <img height="30" width="42" alt="nextjs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+ 
   <img height="30" width="42" alt="npm logo" src="https://devicons.railway.app/i/npm.svg" />
     <img height="30" width="42" alt="metamask logo" src="https://devicons.railway.app/i/metamask.svg" />
   <img height="30" width="42" alt="nodejs logo" src="https://devicons.railway.app/i/nodejs.svg" />
