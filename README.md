@@ -40,6 +40,8 @@ Here are programming languages or tools I frequently used:
   <img height="30" width="42" alt="tailwind logo" src="https://devicons.railway.app/i/tux.svg" />
   <img height="30" width="42" alt="nextjs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img height="30" width="42" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img height="30" width="42" alt="mongodb logo" src="https://devicons.railway.app/i/metamask.svg" />
+  
 
 
 
