@@ -43,6 +43,7 @@ Here are programming languages or tools I frequently used:
     <img height="30" width="42" alt="metamask logo" src="https://devicons.railway.app/i/metamask.svg" />
   <img height="30" width="42" alt="nodejs logo" src="https://devicons.railway.app/i/nodejs.svg" />
 
+ <img height="30" width="42" alt="vscode logo" src="https://devicons.railway.app/i/visual-studio-code.svg"/>
 
 
 
