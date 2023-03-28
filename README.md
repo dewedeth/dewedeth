@@ -1,6 +1,6 @@
 <!-- welcome message -->
 
-# Hi there! Yousef.
+# Hi there! My name is Yousef.
 
 <!-- badge -->
 <div>
